@@ -65,6 +65,8 @@ Search and Ad.
 ---
 
 Below is a simple example, more examples can be found in the `examples/` folder.
+For a demonstration of filtering for environment-friendly jobs with pay ranges
+see `examples/example_environment_jobs.py`.
 
 ```python
 import craigslistscraper as cs
